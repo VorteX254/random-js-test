@@ -1,1 +1,1 @@
-# coding-project-template# random-js-test
+# random-js-test
